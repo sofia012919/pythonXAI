@@ -1,0 +1,7 @@
+# VS Code
+.vscode/
+
+# Ignore environment files
+.streamlit/secrets.toml
+*.env
+
